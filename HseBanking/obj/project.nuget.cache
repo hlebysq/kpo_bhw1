@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nXh1QHj1dzw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gleb\\RiderProjects\\HseBanking\\HseBanking\\HseBanking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gleb\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.6\\microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
+    "C:\\Users\\Gleb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512",
+    "C:\\Users\\Gleb\\.nuget\\packages\\spectre.console\\0.50.1-preview.0.18\\spectre.console.0.50.1-preview.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
